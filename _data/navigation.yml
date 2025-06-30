@@ -18,7 +18,7 @@ main:
     url: /talks/    
 
   - title: "Certificates"
-    url: /Certificates/    
+    url: /certificates/    
     
   - title: "Resources"
     url: /resources/
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "About"
-    url: /about/
+  #- title: "About"
+  #  url: /about/
