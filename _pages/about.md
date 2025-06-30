@@ -20,7 +20,7 @@ Feel free to explore my work, get in touch, or connect via GitHub or LinkedIn.
 
 ## 🎓 Education
 
-- **Ph.D. in Agricultural Economics**, Purdue University, USA (2020)
-- **M.S. in Agricultural & Resource Economics**, University of Tennessee, USA (2016)
+- **Ph.D. in Agricultural Economics**, Purdue University, USA (2020)  
+- **M.S. in Agricultural & Resource Economics**, University of Tennessee, USA (2016)     
   *Minor: Statistics*
 - **B.S. in Forestry**, Zhejiang A&F University, China 
