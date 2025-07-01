@@ -8,3 +8,5 @@ venue: "Journal of Agricultural and Applied Economics"
 citation: "**Tang, M.**, Lewis, K.E., Lambert, D.M., Griffith, A.P., and Boyer, C.N. (2017). Beef cattle retained ownership and profitability in Tennessee. *Journal of Agricultural and Applied Economics*, 49(4), 571–591."
 date: 2017-12-01
 ---
+
+
