@@ -1,9 +1,10 @@
 ---
-title: "BEEF CATTLE RETAINED OWNERSHIP AND PROFITABILITY IN TENNESSEE"
+title: "Beef Cattle Retained Ownership and Profitability in Tennessee"
 collection: publications
 category: publication
-permalink: /publication/2025-07-01-paper-title-number-1
-excerpt: "This paper explores the significance of the number 1."
+external_url: https://www.researchgate.net/publication/318794583_Beef_cattle_retained_ownership_and_profitability_in_Tennessee
+excerpt: '[Access Full Paper](https://www.researchgate.net/publication/318794583_Beef_cattle_retained_ownership_and_profitability_in_Tennessee)'
 venue: "Journal of Agricultural and Applied Economics"
-paperurl: "https://www-cambridge-org.login.ezproxy.library.ualberta.ca/core/services/aop-cambridge-core/content/view/B0CA583CFC3F5BA9E466C142A11C577C/S1074070817000128a.pdf/div-class-title-beef-cattle-retained-ownership-and-profitability-in-tennessee-div.pdf"
+citation: "**Tang, M.**, Lewis, K.E., Lambert, D.M., Griffith, A.P., and Boyer, C.N. (2017). Beef cattle retained ownership and profitability in Tennessee. *Journal of Agricultural and Applied Economics*, 49(4), 571–591."
+date: 2017-12-01
 ---
