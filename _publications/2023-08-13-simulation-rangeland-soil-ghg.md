@@ -1,0 +1,17 @@
+---
+title: " Simulation of the Impact of Rangeland Management Strategies
+ on Soil Health, Environmental Footprint, Economic Impact, and
+ Human-Edible Nutrient Conversion from Grasslands in the
+ Central and Northern Great Plains of the United States"
+collection: publications
+category: publication
+external_url: https://www.researchgate.net/publication/373170189_Simulation_of_the_Impact_of_Rangeland_Management_Strategies_on_Soil_Health_Environmental_Footprint_Economic_Impact_and_Human-Edible_Nutrient_Conversion_from_Grasslands_in_the_Central_and_Northern_Grea
+excerpt: '[Access Full Paper](https://www.researchgate.net/publication/373170189_Simulation_of_the_Impact_of_Rangeland_Management_Strategies_on_Soil_Health_Environmental_Footprint_Economic_Impact_and_Human-Edible_Nutrient_Conversion_from_Grasslands_in_the_Central_and_Northern_Grea)'
+venue: "Sustainability"
+#citation: "Tang, M., Lewis, K.E., Lambert, D.M., Griffith, A.P., and Boyer, C.N. (2017). Beef cattle retained ownership and profitability in Tennessee. Journal of Agricultural and Applied Economics, 49(4), 571-591."
+date: 2023-08-13
+---
+
+**Abstract.** The objective of this study was to determine the impact of combinations of management practices on the sustainability of rangelands in different ecoregions across the Great Plains. Six study sites were selected in Kansas, Nebraska, Wyoming, Montana, and South Dakota, encompassing the Flint Hills, High Plains, and Sandhills ecoregions. Twelve rangeland management scenarios were developed from combinations of stocking density (light, moderate, heavy), grazing management (continuous, rotational), and fire regime (no burn, spring burn) along with a no-management scenario. Each scenario was simulated at each site using established computer models: Agricultural Policy/Environmental eXtender model, Integrated Farm System Model, and Impact Analysis for Planning. Additionally, human-edible nutrient conversion was computed. A sustainability index was developed to encompass the three sustainability pillars (i.e., environmental, economic, and social) into a single value. Unmanaged rangelands generally had less soil (20%), nitrogen (30%), and phosphorus (50%) losses, although this was not consistent across ecoregions, and similar or greater soil carbon deposition than grazed rangelands. There was an interaction among stocking density, grazing management, fire regime, and ecoregion for many indicators of soil health, greenhouse gas emissions, economic activity, and human-edible nutrient conversion. The scenarios with the greatest overall sustainability index value had moderate to high index values for each of the three pillars (people, planet, profit). In conclusion, the ranking of rangeland management practices based on sustainability indicators was inconsistent across ecoregions, indicating that the optimal management system to improve sustainability of rangelands is not the same for all ecoregions.
+
+**Recommended citation**:Day, M.E., **Tang, M.**, Lancaster, P.A., Presley, D., Pendell, D.L., Fick, W.H., Doro, L., Ahlers, A. and Ricketts, A., 2023. Simulation of the Impact of Rangeland Management Strategies on Soil Health, Environmental Footprint, Economic Impact, and Human-Edible Nutrient Conversion from Grasslands in the Central and Northern Great Plains of the United States. *Sustainability*, 15(16), p.12456. https://doi.org/10.3390/su151612456 
