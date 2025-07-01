@@ -1,0 +1,14 @@
+---
+title: "Economic Cost Analysis of Grazing Strategies for Beef Production in Kansas"
+collection: publications
+category: other
+external_url: https://www.researchgate.net/publication/359907811_219_Economic_Cost_Analysis_of_Grazing_Strategies_for_Beef_Production_in_Kansas
+excerpt: '[Access Full Paper](https://www.researchgate.net/publication/359907811_219_Economic_Cost_Analysis_of_Grazing_Strategies_for_Beef_Production_in_Kansas)'
+venue: "Journal of Animal Science (Conference Abstract)"
+#citation: "Tang, M., Lewis, K.E., Lambert, D.M., Griffith, A.P., and Boyer, C.N. (2017). Beef cattle retained ownership and profitability in Tennessee. Journal of Agricultural and Applied Economics, 49(4), 571-591."
+date: 2022-04-07
+---
+
+**Abstract.** Limited research has examined economic cost analyses for rotational-stocking versus continuous-stocking at different stocking rates in a particular region, which makes it difficult to provide guidance to cattle producers in evaluating different grazing strategies. The objective is to evaluate and compare economic costs for rotational and continuous grazing at medium, low, and high stocking rates under stocker grazing in Kansas. This study uses field experiment data collected from a 726-acre rangeland in Hays, Kansas and economic data from the Land Use Survey Center at Kansas State University in 2019. The field experiment from Hays kept detailed records of costs and input such as labor/time, which provides a good basis for number extrapolations to model the other grazing scenarios. We determine fencing, water infrastructure, and time/labor costs for 6 grazing management scenarios, i.e., rotational grazing versus continuous grazing at a low, medium, and high stocking rate. Low, medium, and high stocking rates are 5, 3, 2 acres/animal, respectively. Labor is divided into 6 general categories pertinent to stocker grazing in Kansas. On a per-animal basis, total labor time increases with stocking rates and is greater under rotational grazing relative to continuous grazing. Rotational grazing requires greater total costs, including labor/time on per animal basis than continuous grazing at similar stocking rates. Compared with continuous grazing at the low, medium, and high stocking rates, rotational grazing would require an additional amount of $13.19, $16.67, and $6.04 per animal respectively, to cover the estimated infrastructure and labor costs. Across all scenarios, labor costs account for the largest expense, accounting for more than 60% of total costs. Annualized costs range from $3,205 to $9,277. Fence and water infrastructure costs account for 8.4% to 31% and 3.5% to 7.3% of total costs.
+
+**Recommended citation**:**Tang, M.**, Lancaster, P.A., Pendell, D., Presley, D., Fick, W., Ahlers, A. and Ricketts, A., 2022. 219 Economic Cost Analysis of Grazing Strategies for Beef Production in Kansas. *Journal of Animal Science*, 100(Supplement_2), pp.106-107.
