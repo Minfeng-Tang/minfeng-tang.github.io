@@ -1,0 +1,14 @@
+---
+title: "Regulating veterinary antimicrobial prices as an antimicrobial stewardship policy: Impact of France's 2015 ban on purchase discounts"
+collection: publications
+category: publication
+external_url: https://www.sciencedirect.com/science/article/pii/S0277953626005770
+excerpt: '[Access Full Paper](https://www.sciencedirect.com/science/article/pii/S0277953626005770)'
+venue: "Social Science & Medicine"
+#citation: "Tang, M., Lewis, K.E., Lambert, D.M., Griffith, A.P., and Boyer, C.N. (2017). Beef cattle retained ownership and profitability in Tennessee. Journal of Agricultural and Applied Economics, 49(4), 571-591."
+date: 2026-06-16
+---
+
+**Abstract.** Antimicrobial resistance (AMR) is a major global public health concern, and antimicrobial use in animal agriculture represents an important component of broader One Health stewardship efforts. While veterinary antimicrobial policies have traditionally emphasized prescribing rules and professional behavior, less is known about how economic regulations governing pharmaceutical markets shape incentives linked to antimicrobial use. This study examines the effects of France's 2015 ban on commercial rebates and discounts on veterinary antimicrobial prices. Using listed product prices from purchase catalogues obtained from veterinary practices sourcing products through a leading French wholesaler from 2013 to 2021, we apply an interrupted time series design combined with a hedonic pricing framework to assess policy-related price dynamics. The hedonic results indicate substantial price segmentation by antimicrobial criticality, target species, administration route, marketing authorization status, and manufacturer size. The interrupted time series results show that the ban was associated with an immediate price decline of approximately 15% at implementation and a subsequent weakening of the pre-existing upward price trend. Price responses were largely uniform across critically important antimicrobials (CIAs) and non-CIAs, with only minor divergence in longer-run trends by antimicrobial criticality. Evidence of anticipatory price adjustments following the policy's announcement further suggests that market actors responded to regulatory signals before formal implementation. These findings indicate that regulatory interventions targeting financial arrangements in veterinary pharmaceutical markets can alter pricing incentives and complement traditional stewardship strategies by reshaping the economic context in which antimicrobial use decisions are made.
+
+**Recommended citation**:Tang, M., Raboisson, D., & Lhermie, G. (2026). Regulating Veterinary Antimicrobial Prices as An Antimicrobial Stewardship Policy: Impact of France’s 2015 Ban on Purchase Discounts. Social Science & Medicine, 119501.
